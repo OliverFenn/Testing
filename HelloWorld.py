@@ -1,7 +1,4 @@
-print('This is a test of GitKraken')
+from Import_Functions.py import import_functions
 
-a = 1
-b = 4
-c = a+b
-
-print(c)
+import_functions()
+print('This actually ran')
