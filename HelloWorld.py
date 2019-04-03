@@ -1,4 +1,4 @@
-from Import_Functions import import_functions
-
-import_functions()
+from Square_Number import square
 print('This actually ran')
+num = square(7)
+print(num)
